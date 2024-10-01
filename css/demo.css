@@ -5,3 +5,9 @@
         background-color: lawngreen;
     }
 }
+
+@media (orientation: portrait) and (max-width: 640px) {
+    body,html {
+        background-color: pink;
+    }
+}
